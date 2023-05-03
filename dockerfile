@@ -4,7 +4,7 @@ metadata:
   name: testpod1
 spec:
   containers:
-    - name: c003
+    - name: c005
       image: ubuntu
     restartpolicy: Never
     
